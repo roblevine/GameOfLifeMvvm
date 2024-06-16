@@ -6,7 +6,7 @@ This repository has an implementation of Conway's Game of Life using Avalonia UI
 
 ## Getting Started
 
-You'll need .NET 7 SDK, and then use `dotnet run`.
+You'll need .NET 8 SDK, and then use `dotnet run`.
 
 ## Why?
 
